@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__MuiBox-root css-19n8dai</name>
+   <tag></tag>
+   <elementGuidId>dfa4df11-f59d-4983-a247-6cb32430d7e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiBox-root.css-19n8dai</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Hai, Have a nice day !KehadiranmuOctober2025WFO3Cuti0Sakit6WFH4Lembur0Terlambat0&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b5d11e0d-3ac1-4557-96ae-a5dea73b7daa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root css-19n8dai</value>
+      <webElementGuid>b2b1d373-ecf2-4992-b81a-fd0363ed71b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hai, Have a nice day !KehadiranmuOctober​2025​WFO3Cuti0Sakit6WFH4Lembur0Terlambat0Pulang Cepat0MenuAbsensiKoreksi AbsenIzinLemburCutiSakitDownload ReportsStaffHistory AbsensiSelengkapnya</value>
+      <webElementGuid>57915dfe-4062-4871-b14b-0ce72a981860</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthSm css-ewqxmf&quot;]/div[@class=&quot;MuiBox-root css-19n8dai&quot;]</value>
+      <webElementGuid>0814fd90-8efa-457f-a09c-22a2e51880c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div</value>
+      <webElementGuid>d00a0898-2aab-47c4-9ba9-2e3b8198d9c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div</value>
+      <webElementGuid>a10cd56d-8130-4d09-847d-60946c5782a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Hai, Have a nice day !KehadiranmuOctober​2025​WFO3Cuti0Sakit6WFH4Lembur0Terlambat0Pulang Cepat0MenuAbsensiKoreksi AbsenIzinLemburCutiSakitDownload ReportsStaffHistory AbsensiSelengkapnya' or . = 'Hai, Have a nice day !KehadiranmuOctober​2025​WFO3Cuti0Sakit6WFH4Lembur0Terlambat0Pulang Cepat0MenuAbsensiKoreksi AbsenIzinLemburCutiSakitDownload ReportsStaffHistory AbsensiSelengkapnya')]</value>
+      <webElementGuid>84eb2eb9-5861-461e-9a4c-596698ad5376</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
