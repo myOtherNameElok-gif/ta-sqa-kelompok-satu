@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>download template status aktif</description>
+   <name>Test Case 1-download template</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4286fd07-d0e6-4792-8ab1-d277bb0dd87f</testCaseGuid>
+</TestCaseEntity>
