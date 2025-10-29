@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a__user__menu__item</name>
+   <name>span_Sat_rdrDayNumber_3</name>
    <tag></tag>
-   <elementGuidId>6c6a43cc-9843-4d8c-a011-6cd24ba3d760</elementGuidId>
+   <elementGuidId>d552b38a-7b1a-4cf2-ad87-63389a3c6a19</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>button.rdrDay.rdrDayHovered > span.rdrDayNumber</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='__next']/div/div/div/div[3]/div/div/div[6]/div/div/a</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sat'])[1]/following::span[24]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>a >> internal:has-text=&quot;Sakit&quot;i</value>
+         <value>internal:role=button[name=&quot;5&quot;i] >> nth=0</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,175 +28,175 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>c4dd1a3c-0d0f-4148-9bfb-b5c87107e01b</webElementGuid>
+      <value>span</value>
+      <webElementGuid>52f9d548-00a7-43da-bfbc-7a80bf1f4ad5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>user__menu__item</value>
-      <webElementGuid>ddc30b1e-0579-437a-8d89-482d601326d2</webElementGuid>
+      <value>rdrDayNumber</value>
+      <webElementGuid>37b6a3d3-81e5-4e34-ab98-a601510564e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Sakit</value>
-      <webElementGuid>b8de7465-2d91-4725-a86e-9d7230c3d04c</webElementGuid>
+      <value>5</value>
+      <webElementGuid>9dc5abc3-e17d-45a4-9703-f4c3e559d51a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthSm css-ewqxmf&quot;]/div[@class=&quot;MuiBox-root css-19n8dai&quot;]/div[@class=&quot;MuiBox-root css-wmurvm&quot;]/div[@class=&quot;MuiBox-root css-1dovkig&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-isbt42&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3 MuiGrid-grid-sm-3 css-4xkoi8&quot;]/div[@class=&quot;MuiBox-root css-7wh13m&quot;]/div[@class=&quot;MuiBox-root css-zg1vud&quot;]/a[@class=&quot;user__menu__item&quot;]</value>
-      <webElementGuid>f1fa56c4-6d76-4361-a62e-f135e1262a7d</webElementGuid>
+      <value>/html[@class=&quot;&quot;]/body[1]/div[@class=&quot;MuiDialog-root MuiModal-root css-126xj0f&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-ekeie0&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthSm MuiDialog-paperFullScreen css-1dn27u9&quot;]/div[@class=&quot;MuiBox-root css-dnzezj&quot;]/div[@class=&quot;MuiBox-root css-130qoze&quot;]/div[@class=&quot;rdrCalendarWrapper rdrDateRangeWrapper&quot;]/div[@class=&quot;rdrMonths rdrMonthsVertical&quot;]/div[@class=&quot;rdrMonth&quot;]/div[@class=&quot;rdrDays&quot;]/button[@class=&quot;rdrDay rdrDayHovered&quot;]/span[@class=&quot;rdrDayNumber&quot;]</value>
+      <webElementGuid>61929844-8232-4f44-a4a1-f954e734b7e2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//div[@id='__next']/div/div/div/div[3]/div/div/div[6]/div/div/a</value>
-      <webElementGuid>2457d017-7c2d-4b47-a636-aef6a93ada8d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sat'])[1]/following::span[24]</value>
+      <webElementGuid>810de0cc-f7c3-439d-a341-502d17cbd33d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/following::a[6]</value>
-      <webElementGuid>71434306-c0e8-4b91-84bc-5006a33a8f4c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fri'])[1]/following::span[25]</value>
+      <webElementGuid>05a511e9-b98e-4874-a1f7-be0b8b347539</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::a[6]</value>
-      <webElementGuid>5e41139a-d263-44c2-aa8b-e6dd9520269b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/preceding::span[64]</value>
+      <webElementGuid>602bb87d-63f8-45d6-a3f7-471ba9367895</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Absen Masuk'])[1]/preceding::a[3]</value>
-      <webElementGuid>8c4fbfab-02a1-4416-880c-003494ac5d7f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan'])[1]/preceding::span[65]</value>
+      <webElementGuid>1abf1ea2-fa8e-458f-83f0-38753af66fdf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[6]/div/div/a</value>
-      <webElementGuid>ec10fd88-ecf6-45db-b9f7-f76e5f5ade45</webElementGuid>
+      <value>//button[11]/span[2]</value>
+      <webElementGuid>199200cb-240c-4cd8-af6b-f928992e1d67</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[(text() = 'Sakit' or . = 'Sakit')]</value>
-      <webElementGuid>93f70fa4-cbd9-43d0-9a20-5d27e89d97d0</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='__next']/div/div/div/div[3]/div/div/div[5]/div/div/a</value>
-      <webElementGuid>bf8b0c79-d686-43c2-bbfb-034ccfbfb503</webElementGuid>
+      <value>//span[(text() = '5' or . = '5')]</value>
+      <webElementGuid>a59b4535-bf5c-402e-a6ec-0ff200667e74</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/following::a[5]</value>
-      <webElementGuid>311a2ab5-f0b5-43d5-a842-3b009b6b85c6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sat'])[1]/following::span[70]</value>
+      <webElementGuid>033cf2de-02bc-4648-99c3-531214f89b61</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::a[5]</value>
-      <webElementGuid>3ba9b174-5409-4919-a8a1-f202611f447f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fri'])[1]/following::span[71]</value>
+      <webElementGuid>80c9c210-0df7-4b33-af2e-2556f009c4b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Absen Masuk'])[1]/preceding::a[4]</value>
-      <webElementGuid>7ae61e22-3374-4377-9154-77473e774d62</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/preceding::span[4]</value>
+      <webElementGuid>bcd3eb4c-fae3-4b66-aab7-a8137cd04d17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan'])[1]/preceding::span[5]</value>
+      <webElementGuid>18f609e6-cf57-436c-9b46-764c726f8088</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[5]/div/div/a</value>
-      <webElementGuid>e7a4567c-1900-4d0d-83b3-172b34649e5e</webElementGuid>
+      <value>//button[34]/span[2]</value>
+      <webElementGuid>79027dbd-5dc5-4c19-bda1-e2e291c6ae78</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[(text() = 'Cuti' or . = 'Cuti')]</value>
-      <webElementGuid>d0231320-194b-431f-8d7a-62dd75cd7324</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='__next']/div/div/div/div[3]/div/div/div[3]/div/div/a</value>
-      <webElementGuid>c9d20893-8035-41d3-aa0c-4f45a0474909</webElementGuid>
+      <value>//span[(text() = '31' or . = '31')]</value>
+      <webElementGuid>28765ba2-c131-46c1-97af-4d0ba2fe8a43</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/following::a[3]</value>
-      <webElementGuid>cd488238-c6c9-47b1-8a18-93e0ee7e9eba</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sat'])[1]/following::span[51]</value>
+      <webElementGuid>f3ffe8f7-ad33-42d1-8303-1e453dfba5c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::a[3]</value>
-      <webElementGuid>eb14cc6f-471d-466d-a3e1-d1e289557336</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fri'])[1]/following::span[52]</value>
+      <webElementGuid>f84ec94a-7487-4f95-91f4-671852a0547f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Absen Masuk'])[1]/preceding::a[6]</value>
-      <webElementGuid>47836806-9745-424e-b062-c148a382e045</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/preceding::span[46]</value>
+      <webElementGuid>08c731f1-c572-4b19-9377-022b8dafbacc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan'])[1]/preceding::span[47]</value>
+      <webElementGuid>270b7655-89ad-4bbc-82f5-af7e315b3030</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/div/div/a</value>
-      <webElementGuid>b2caae89-d526-49f0-aeec-8feabb37585f</webElementGuid>
+      <value>//button[20]/span[2]</value>
+      <webElementGuid>6d95669d-79b4-4851-8f9a-579b34af5176</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[(text() = 'Izin' or . = 'Izin')]</value>
-      <webElementGuid>1dd3dd59-00b3-4976-aaf5-48c7fe5dc6e4</webElementGuid>
+      <value>//span[(text() = '14' or . = '14')]</value>
+      <webElementGuid>a052f075-8320-4fde-9d97-adc921dcfa8e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

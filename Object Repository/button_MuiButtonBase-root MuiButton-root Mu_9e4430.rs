@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Status_MuiButtonBase-root MuiButton-_fda203</name>
+   <name>button_MuiButtonBase-root MuiButton-root Mu_9e4430</name>
    <tag></tag>
-   <elementGuidId>899db60f-d2e7-4cf1-8345-d466e667dbe6</elementGuidId>
+   <elementGuidId>59780e10-a1f2-462a-9075-026b358d63dd</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -18,7 +18,7 @@
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Ajukan Cuti&quot;i]</value>
+         <value>internal:role=button[name=&quot;Ajukan Sakit&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f43443e7-484f-4c89-b408-f91b971a4254</webElementGuid>
+      <webElementGuid>608ac9fe-88f5-4443-8f67-02a137df89df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-fullWidth css-otounb</value>
-      <webElementGuid>cc6208ea-ee25-4e50-94ad-c9afc8d779b9</webElementGuid>
+      <webElementGuid>0c4df13f-33b8-4d6d-a215-58c81c70cc33</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>517bb35a-8a23-40a7-a082-fe007cf442e8</webElementGuid>
+      <webElementGuid>80af7ecc-6c9c-4110-a316-3b3dd7d4b8d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,15 +53,15 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>428ff12e-c72c-4320-ac6d-9585e470d39a</webElementGuid>
+      <webElementGuid>f0236e2a-b905-491c-b893-d2e92460fe2f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Ajukan Cuti</value>
-      <webElementGuid>cb63124e-9179-47d5-93a9-af03d71a547a</webElementGuid>
+      <value>Ajukan Sakit</value>
+      <webElementGuid>48964a36-189d-4657-82f0-71995ac7eb6d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthSm css-1cd81x&quot;]/div[@class=&quot;MuiBox-root css-1ejni00&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-1hpygww&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-fullWidth css-otounb&quot;]</value>
-      <webElementGuid>67e02624-7b7d-4d80-bb25-28a0270f8ef1</webElementGuid>
+      <webElementGuid>acc6b242-6b87-4819-8107-6459a8867161</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[2]</value>
-      <webElementGuid>3dc67bf8-80c1-4d8d-95ee-58467803bd5d</webElementGuid>
+      <webElementGuid>0c46a7c8-213c-40f5-899d-e3c7548feb38</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,15 +85,15 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div[3]/div/div[3]/button</value>
-      <webElementGuid>c3a4ad4a-620a-46a2-b22d-e2ae5a3a6525</webElementGuid>
+      <webElementGuid>f4f258d7-5428-45f8-bf13-2ac2712ebca3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Ajukan Cuti']/parent::*</value>
-      <webElementGuid>6b48a5d0-ee60-411f-9c68-7632971e7833</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Ajukan Sakit']/parent::*</value>
+      <webElementGuid>c0097153-0f55-4e5b-ac6b-9ca1abae8cc8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,14 +101,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/button</value>
-      <webElementGuid>d1bd1cd0-5ad7-43c6-9377-4a3318de9b7a</webElementGuid>
+      <webElementGuid>8f8e1cd1-77e7-42a9-9b34-1cb7a6e191d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'Ajukan Cuti' or . = 'Ajukan Cuti')]</value>
-      <webElementGuid>59c83e4d-5517-4345-b59b-4381784d526d</webElementGuid>
+      <value>//button[@type = 'button' and (text() = 'Ajukan Sakit' or . = 'Ajukan Sakit')]</value>
+      <webElementGuid>2a274d49-1237-418a-8d2a-944505fa79bb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

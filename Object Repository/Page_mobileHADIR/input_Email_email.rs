@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>3a56ed78-00ce-40b5-9de6-3ed957020fe4</webElementGuid>
+      <webElementGuid>acee1c02-2735-4cf8-9421-bac965633fcc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>email</value>
-      <webElementGuid>802780cf-8e09-479d-a0c7-99f75b6fb332</webElementGuid>
+      <webElementGuid>21bdd4b9-2b7a-46fd-8133-fb62550ac96d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>94b60bcb-89bb-4e0a-8f99-1fbedd89cdb4</webElementGuid>
+      <webElementGuid>6288e5d5-48fa-406b-8c7e-efe43de1a910</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>email</value>
-      <webElementGuid>b95abbe1-81aa-494b-b95d-030c663990f4</webElementGuid>
+      <webElementGuid>77366e96-9e9e-43e2-a275-f5da5fd65ed2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>name</name>
       <type>Main</type>
       <value>email</value>
-      <webElementGuid>3910f9f8-a2ef-46ee-b501-78b087e3bb43</webElementGuid>
+      <webElementGuid>d150007a-3020-46a3-b5a0-ee5c9a61ed85</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Masukan Email kamu disini</value>
-      <webElementGuid>02ff1a5f-5fb3-40a6-9546-98be7155bb97</webElementGuid>
+      <webElementGuid>4c2ec950-6598-4dbf-a758-94db6aa197db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSizeSmall css-1o6z5ng</value>
-      <webElementGuid>dbd1134c-7443-49aa-bae2-49c3c821ae02</webElementGuid>
+      <webElementGuid>9b7c59c3-80ae-47c0-9500-36609f95c78e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;email&quot;)</value>
-      <webElementGuid>e175f43d-467f-4bc9-9003-44c408e87d43</webElementGuid>
+      <webElementGuid>436d8586-1e53-4950-9c12-616e44ac75ce</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='email']</value>
-      <webElementGuid>8c2826f1-440c-49c8-8eed-332f82fc0734</webElementGuid>
+      <webElementGuid>f7694433-bf7d-4ced-b579-6d1ba83f5e52</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/div/form/div/div/input</value>
-      <webElementGuid>747a44c3-4846-4b37-9c73-6ea1ab8653fd</webElementGuid>
+      <webElementGuid>2fa1aaed-b572-4515-9fe7-89bddab31611</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>94c9e4ba-9365-48b9-b8e7-ed08924e05bc</webElementGuid>
+      <webElementGuid>c723a9b1-fb84-4847-a04d-1ffd15e7e834</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'email' and @id = 'email' and @name = 'email' and @placeholder = 'Masukan Email kamu disini']</value>
-      <webElementGuid>8c0bde4d-41e6-4e89-9af2-fd180b4a430b</webElementGuid>
+      <webElementGuid>a814b76f-4cf4-4596-991d-d561abc43e00</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

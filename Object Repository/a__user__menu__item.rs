@@ -3,7 +3,7 @@
    <description></description>
    <name>a__user__menu__item</name>
    <tag></tag>
-   <elementGuidId>6c6a43cc-9843-4d8c-a011-6cd24ba3d760</elementGuidId>
+   <elementGuidId>551ffb48-eada-4e80-b367-292997a954fe</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>c4dd1a3c-0d0f-4148-9bfb-b5c87107e01b</webElementGuid>
+      <webElementGuid>689258f4-4a5a-4da3-af30-05571c45ed92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>user__menu__item</value>
-      <webElementGuid>ddc30b1e-0579-437a-8d89-482d601326d2</webElementGuid>
+      <webElementGuid>921dca7e-d9dc-4ef9-ab5b-d75fc2dba785</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Sakit</value>
-      <webElementGuid>b8de7465-2d91-4725-a86e-9d7230c3d04c</webElementGuid>
+      <webElementGuid>3fc0c5c2-4cc9-48d4-ad36-0687aa7a6393</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthSm css-ewqxmf&quot;]/div[@class=&quot;MuiBox-root css-19n8dai&quot;]/div[@class=&quot;MuiBox-root css-wmurvm&quot;]/div[@class=&quot;MuiBox-root css-1dovkig&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-isbt42&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3 MuiGrid-grid-sm-3 css-4xkoi8&quot;]/div[@class=&quot;MuiBox-root css-7wh13m&quot;]/div[@class=&quot;MuiBox-root css-zg1vud&quot;]/a[@class=&quot;user__menu__item&quot;]</value>
-      <webElementGuid>f1fa56c4-6d76-4361-a62e-f135e1262a7d</webElementGuid>
+      <webElementGuid>20ac1e39-80b5-4640-85a7-dd78821a8cce</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/div/div[3]/div/div/div[6]/div/div/a</value>
-      <webElementGuid>2457d017-7c2d-4b47-a636-aef6a93ada8d</webElementGuid>
+      <webElementGuid>d45713f6-d936-49cf-9e74-92c72643bb85</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/following::a[6]</value>
-      <webElementGuid>71434306-c0e8-4b91-84bc-5006a33a8f4c</webElementGuid>
+      <webElementGuid>c96aaf7d-56f1-4efa-9293-f03e198994a0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::a[6]</value>
-      <webElementGuid>5e41139a-d263-44c2-aa8b-e6dd9520269b</webElementGuid>
+      <webElementGuid>fd913219-98c0-49db-9e06-6a27e78d58f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Absen Masuk'])[1]/preceding::a[3]</value>
-      <webElementGuid>8c4fbfab-02a1-4416-880c-003494ac5d7f</webElementGuid>
+      <webElementGuid>341b33b9-92a5-454d-903c-bb0db5f5030e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/div/div/a</value>
-      <webElementGuid>ec10fd88-ecf6-45db-b9f7-f76e5f5ade45</webElementGuid>
+      <webElementGuid>473262f2-50e6-450d-8149-0d2d6e10a87c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[(text() = 'Sakit' or . = 'Sakit')]</value>
-      <webElementGuid>93f70fa4-cbd9-43d0-9a20-5d27e89d97d0</webElementGuid>
+      <webElementGuid>9f5cc2a8-0014-4d41-9eb5-8921d43167b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

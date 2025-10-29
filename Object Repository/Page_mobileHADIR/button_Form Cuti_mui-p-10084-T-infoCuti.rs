@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>li_Pilih Tipe Absen_MuiButtonBase-root MuiM_7a3f0a</name>
+   <name>button_Form Cuti_mui-p-10084-T-infoCuti</name>
    <tag></tag>
-   <elementGuidId>ff64d505-cc22-491e-90f7-cf91301c5e76</elementGuidId>
+   <elementGuidId>fbd09afe-2715-485b-881d-ed067555a2aa</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>#mui-p-10084-T-infoCuti</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//ul[@id='mui-4']/li[2]</value>
+         <value>//button[@id='mui-p-10084-T-infoCuti']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=option[name=&quot;Khitanan/Pembabtisan (2 hari)&quot;i]</value>
+         <value>internal:role=tab[name=&quot;Info Cuti&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,32 +28,40 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>li</value>
-      <webElementGuid>d22ad8ad-f65e-4f39-b62c-6ef8595dcba7</webElementGuid>
+      <value>button</value>
+      <webElementGuid>fcb902a3-c17b-49c0-ba88-4cbe4d9c416b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters MuiMenuItem-root MuiMenuItem-gutters css-1fh5cnl</value>
-      <webElementGuid>3d0cb2ee-81ee-4dd0-8b55-fddb39879167</webElementGuid>
+      <value>MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary css-1sh52gn</value>
+      <webElementGuid>70efcf99-b226-44b4-861e-397e8c871fb3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tabindex</name>
       <type>Main</type>
-      <value>0</value>
-      <webElementGuid>fc9760ee-4604-483a-a5d8-e9f29c090131</webElementGuid>
+      <value>-1</value>
+      <webElementGuid>9c030b27-38a3-4fc3-9fe2-49bd882de5dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fc071e0f-ed2d-4efd-bf44-23641365a710</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>role</name>
       <type>Main</type>
-      <value>option</value>
-      <webElementGuid>160b5cd0-eb74-45fb-a6c6-8605c9ef7078</webElementGuid>
+      <value>tab</value>
+      <webElementGuid>812f36a0-00d3-4dc6-9713-d33964db0d06</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,94 +69,94 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>6b731493-d731-4949-996e-da38b7cf6c7a</webElementGuid>
+      <webElementGuid>f3142c5c-168d-45ce-8d4f-2c2ba8c17324</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-value</name>
+      <name>aria-controls</name>
       <type>Main</type>
-      <value>dd733981-32dd-47bf-96a5-428e3983df64</value>
-      <webElementGuid>07e2f901-a7b9-48da-96ae-20b57315056a</webElementGuid>
+      <value>mui-p-10084-P-infoCuti</value>
+      <webElementGuid>a191fffb-c9db-4335-9d58-f025a41eeb81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>mui-p-10084-T-infoCuti</value>
+      <webElementGuid>70a381a0-bbcf-4520-9fcc-90966136d177</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Khitanan/Pembabtisan (2 hari) </value>
-      <webElementGuid>d1ade64e-3707-4ac3-8549-5cfc6fb6c9b2</webElementGuid>
+      <value>Info Cuti</value>
+      <webElementGuid>cd3986a8-5028-45fa-87c0-a297b4175053</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mui-4&quot;)/li[@class=&quot;MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters MuiMenuItem-root MuiMenuItem-gutters css-1fh5cnl&quot;]</value>
-      <webElementGuid>fe903ab6-1f71-40fb-926a-349dace604e3</webElementGuid>
+      <value>id(&quot;mui-p-10084-T-infoCuti&quot;)</value>
+      <webElementGuid>db651a4f-499a-4a93-ba31-a17440b09919</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//ul[@id='mui-4']/li[2]</value>
-      <webElementGuid>515ff317-db34-4013-b11f-13816a1bd64e</webElementGuid>
+      <value>//button[@id='mui-p-10084-T-infoCuti']</value>
+      <webElementGuid>4414ba06-3bfc-48ac-b5fa-0574ef8b77e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Tipe Absen'])[2]/following::li[1]</value>
-      <webElementGuid>219ed469-6616-429a-9266-edfc07660d74</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Form Cuti'])[1]/following::button[1]</value>
+      <webElementGuid>8291d6e9-eca6-42bd-b7d9-16beba9a6e66</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ajukan'])[1]/following::li[2]</value>
-      <webElementGuid>7371fd5e-bdb7-4ba8-81b7-8df92d284415</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Tipe Cuti'])[1]/preceding::button[1]</value>
+      <webElementGuid>53f45adf-3dc4-4247-8d3b-6bc08a6c3c31</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pernikahan anak (2 hari)'])[1]/preceding::li[1]</value>
-      <webElementGuid>3f8e724b-eb5c-4526-ab11-adf99419f717</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Tipe Absen'])[1]/preceding::button[1]</value>
+      <webElementGuid>cb81f52d-9aff-48c3-ace0-39f18fda9cdc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cuti persalinan (3 bulan)'])[1]/preceding::li[2]</value>
-      <webElementGuid>08f47c12-eef3-4699-afb1-a93046e87b96</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Khitanan/Pembabtisan (2 hari)']/parent::*</value>
-      <webElementGuid>6136c48d-4728-4776-879d-bdc210db9cb4</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Info Cuti']/parent::*</value>
+      <webElementGuid>9b085847-8373-4b60-91a4-099851cd7cdb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[2]</value>
-      <webElementGuid>75948a52-e98a-4e0c-bf8c-13c2a523519f</webElementGuid>
+      <value>//button[2]</value>
+      <webElementGuid>329ca7bf-40b6-4cf3-bf09-52a245cb0872</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//li[(text() = 'Khitanan/Pembabtisan (2 hari) ' or . = 'Khitanan/Pembabtisan (2 hari) ')]</value>
-      <webElementGuid>f370772f-5480-414a-a521-8912ba388b8f</webElementGuid>
+      <value>//button[@type = 'button' and @id = 'mui-p-10084-T-infoCuti' and (text() = 'Info Cuti' or . = 'Info Cuti')]</value>
+      <webElementGuid>ce6e18d7-3174-48fc-8370-aab80a2a2ec6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

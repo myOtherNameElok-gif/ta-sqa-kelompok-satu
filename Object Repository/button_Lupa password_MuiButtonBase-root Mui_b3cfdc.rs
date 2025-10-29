@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Lupa password_MuiButtonBase-root Mui_b3cfdc</name>
    <tag></tag>
-   <elementGuidId>1b3b9706-de14-408b-b12d-3bf2c0fe4982</elementGuidId>
+   <elementGuidId>63fa932a-ed42-4dc4-b74d-e9755ad170a8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>3b621728-05ac-4f2e-897c-4331e313e7a0</webElementGuid>
+      <webElementGuid>b618a812-0a20-4707-aa25-d20f99bf83ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-fullWidth css-4di9ve</value>
-      <webElementGuid>1d5c6b95-c9f9-49ab-8e66-c7d56e4e642f</webElementGuid>
+      <webElementGuid>658acba1-a2cc-4150-8232-9b3f66b9114e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>b0266d5c-1d22-424a-bebf-5edbb048a85e</webElementGuid>
+      <webElementGuid>ff79cdf9-df7b-4112-8413-0ac4aac6e643</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>cce7ae02-0d1a-430f-89e1-ce4a6887b374</webElementGuid>
+      <webElementGuid>bcb79129-296d-49b8-8f61-e494c0ccdd32</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Masuk</value>
-      <webElementGuid>28add44d-384e-48f4-8f1d-9bf37f85eadf</webElementGuid>
+      <webElementGuid>8061a74d-7d59-4c12-bb6f-ba06e64716ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-1ltr304&quot;]/div[@class=&quot;MuiBox-root css-8atqhb&quot;]/form[1]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-fullWidth css-4di9ve&quot;]</value>
-      <webElementGuid>01ddcc41-8e41-40d3-9209-5e9cf86541b9</webElementGuid>
+      <webElementGuid>6ee9d821-3396-45ba-bab5-6c861a751f85</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>99e658ff-1b95-43c9-b675-0c1a48f13901</webElementGuid>
+      <webElementGuid>39b34031-f0f4-4b7e-a4f7-6da81efd2c13</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/div/form/button[2]</value>
-      <webElementGuid>cf89243f-efa2-4ea5-b863-b25b08be9508</webElementGuid>
+      <webElementGuid>9fef3b40-1e9d-4411-938e-281ad5e93165</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa password ?'])[1]/following::button[1]</value>
-      <webElementGuid>f7dcfc22-e6a3-482e-979f-218b3dc609b0</webElementGuid>
+      <webElementGuid>ec167caa-120c-4f3a-969f-1a2253e4e759</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/following::button[2]</value>
-      <webElementGuid>bc67a0ed-7e6f-4dd2-adbb-38f7e13c41b8</webElementGuid>
+      <webElementGuid>692636d0-fa27-4379-a108-90bfab0147ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='disini'])[1]/preceding::button[1]</value>
-      <webElementGuid>b8c70494-54d0-4c9b-8edf-510a8f3ca572</webElementGuid>
+      <webElementGuid>2b14f378-bbdc-423e-b8b0-9ef8d1393bca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Masuk']/parent::*</value>
-      <webElementGuid>4163ad81-9c9b-4438-897e-dfe17c6903b7</webElementGuid>
+      <webElementGuid>80f0160f-788c-4094-bff9-8a9f2d1f5702</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]</value>
-      <webElementGuid>20f873bc-0ed6-4139-b27f-186f125b50ad</webElementGuid>
+      <webElementGuid>6f2fd837-3aaf-4d5b-8c2d-8fb8bdc955fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +133,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = 'Masuk' or . = 'Masuk')]</value>
-      <webElementGuid>99924a14-052f-4b35-bb2c-83bffeab7dd0</webElementGuid>
+      <webElementGuid>9ccb9689-d1e6-43f1-ac32-6f4621e8cf91</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

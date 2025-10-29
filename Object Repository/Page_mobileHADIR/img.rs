@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>299b8d20-bb07-43f5-85d6-cf00edd1ca22</webElementGuid>
+      <webElementGuid>c0c0a407-3adc-4a2a-ab30-0ea5571dab0f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>Cuti</value>
-      <webElementGuid>88ca32e4-4c59-43f3-9db4-0615f45dbd8d</webElementGuid>
+      <webElementGuid>621a798a-143a-41d0-b158-2e69889b6c38</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>sizes</name>
       <type>Main</type>
       <value>100vw</value>
-      <webElementGuid>b8ade197-3fe2-4984-a146-f929d700b58a</webElementGuid>
+      <webElementGuid>c227c325-61a8-4ede-b54c-374d08d81e94</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>srcset</name>
       <type>Main</type>
       <value>/_next/image?url=%2Fstatic%2Fimages%2Ficons%2Fleave.svg&amp;w=640&amp;q=75 640w, /_next/image?url=%2Fstatic%2Fimages%2Ficons%2Fleave.svg&amp;w=750&amp;q=75 750w, /_next/image?url=%2Fstatic%2Fimages%2Ficons%2Fleave.svg&amp;w=828&amp;q=75 828w, /_next/image?url=%2Fstatic%2Fimages%2Ficons%2Fleave.svg&amp;w=1080&amp;q=75 1080w, /_next/image?url=%2Fstatic%2Fimages%2Ficons%2Fleave.svg&amp;w=1200&amp;q=75 1200w, /_next/image?url=%2Fstatic%2Fimages%2Ficons%2Fleave.svg&amp;w=1920&amp;q=75 1920w, /_next/image?url=%2Fstatic%2Fimages%2Ficons%2Fleave.svg&amp;w=2048&amp;q=75 2048w, /_next/image?url=%2Fstatic%2Fimages%2Ficons%2Fleave.svg&amp;w=3840&amp;q=75 3840w</value>
-      <webElementGuid>7f361610-57b1-4fcc-a27e-ab59fd9fae25</webElementGuid>
+      <webElementGuid>6eb16661-f502-43eb-b2fc-bf0868b4dbbf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>src</name>
       <type>Main</type>
       <value>/_next/image?url=%2Fstatic%2Fimages%2Ficons%2Fleave.svg&amp;w=3840&amp;q=75</value>
-      <webElementGuid>4b032fdb-e460-452f-9eae-80b112d92ed2</webElementGuid>
+      <webElementGuid>4e8e4b90-f8e9-47fb-92a7-304c6b3ee5d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>decoding</name>
       <type>Main</type>
       <value>async</value>
-      <webElementGuid>ac06fe53-dee0-4536-8168-bbb8452f568d</webElementGuid>
+      <webElementGuid>c7a69716-389e-49b2-9873-e2522fe2050a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>data-nimg</name>
       <type>Main</type>
       <value>responsive</value>
-      <webElementGuid>d2fc0524-ddf6-4292-b0bf-c3a1f89c77b2</webElementGuid>
+      <webElementGuid>1a16bd2a-ae29-46b6-8d41-f81151934be5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthSm css-ewqxmf&quot;]/div[@class=&quot;MuiBox-root css-19n8dai&quot;]/div[@class=&quot;MuiBox-root css-wmurvm&quot;]/div[@class=&quot;MuiBox-root css-1dovkig&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-isbt42&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3 MuiGrid-grid-sm-3 css-4xkoi8&quot;]/div[@class=&quot;MuiBox-root css-7wh13m&quot;]/div[@class=&quot;MuiBox-root css-zg1vud&quot;]/a[@class=&quot;user__menu__item&quot;]/div[@class=&quot;MuiBox-root css-11uwjng&quot;]/span[1]/img[1]</value>
-      <webElementGuid>f0894381-477e-4440-9021-ce4b99f6ba18</webElementGuid>
+      <webElementGuid>594326e5-a0ae-4e5c-877f-fc1130175758</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/div/div[3]/div/div/div[5]/div/div/a/div/span/img</value>
-      <webElementGuid>d1cf43bc-7233-4705-9fc6-0fed75ce3042</webElementGuid>
+      <webElementGuid>e4099de5-d0d1-4174-8f2f-2f34ee557c42</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='Cuti']</value>
-      <webElementGuid>0fec7b78-c307-4fb0-afad-250ee8c84bcc</webElementGuid>
+      <webElementGuid>8ca13e68-9f28-43c9-a9cc-303dcd2caeb7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div/div/a/div/span/img</value>
-      <webElementGuid>fe8c9ce9-bf5a-44bd-8ff0-23982df0b7d0</webElementGuid>
+      <webElementGuid>c6676d01-6213-4874-8ea3-2ace0efa99b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@alt = 'Cuti' and @src = '/_next/image?url=%2Fstatic%2Fimages%2Ficons%2Fleave.svg&amp;w=3840&amp;q=75']</value>
-      <webElementGuid>1592cf71-8528-432b-8e2b-999c7f9b802f</webElementGuid>
+      <webElementGuid>b8ddbc1c-18ea-4b3b-94a2-85db9e73f96a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/div/div[3]/div/div/div[6]/div/div/a/div/span/img</value>
-      <webElementGuid>61001c86-df83-4847-bcbc-917fef97864e</webElementGuid>
+      <webElementGuid>4abb4784-18cf-430b-8e79-f69180536e22</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='Sakit']</value>
-      <webElementGuid>3ae19b72-d2d3-4f08-84a7-6aecdc84e423</webElementGuid>
+      <webElementGuid>5aefdb8a-16fd-428b-9644-dd9d88008d89</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/div/div/a/div/span/img</value>
-      <webElementGuid>ae03c3be-baa9-41a1-afab-0f84e13550b4</webElementGuid>
+      <webElementGuid>08efd485-d32b-43f5-ac49-11ff7cda7cf9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@alt = 'Sakit' and @src = '/_next/image?url=%2Fstatic%2Fimages%2Ficons%2Fsick.svg&amp;w=3840&amp;q=75']</value>
-      <webElementGuid>4e78ff70-9f13-4451-bd1b-674bedb8bec5</webElementGuid>
+      <webElementGuid>eae89624-b8c7-425d-a4e3-c223f2edccd2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/div/div[3]/div/div/div[3]/div/div/a/div/span/img</value>
-      <webElementGuid>48ddf0ba-22a6-44be-8d1c-f701ddf2efe3</webElementGuid>
+      <webElementGuid>57523c5c-4e0d-42b6-8959-43d67344d6be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='Izin']</value>
-      <webElementGuid>ff42e532-44b3-460d-92f0-2cdb9985870f</webElementGuid>
+      <webElementGuid>68968f43-06f7-4d6c-9f73-1130175c8f14</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -173,7 +173,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/a/div/span/img</value>
-      <webElementGuid>fc84e1ac-bf85-4215-9690-eb7043f01fc7</webElementGuid>
+      <webElementGuid>8a60a934-f9fa-4ca8-a86c-ac59de143d6b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -181,6 +181,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@alt = 'Izin' and @src = '/_next/image?url=%2Fstatic%2Fimages%2Ficons%2Fizin.svg&amp;w=3840&amp;q=75']</value>
-      <webElementGuid>648b7491-c3c0-4106-9c43-7b7eaff3cce0</webElementGuid>
+      <webElementGuid>71a99ccb-3256-4d53-92eb-55ff9bf0f29e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

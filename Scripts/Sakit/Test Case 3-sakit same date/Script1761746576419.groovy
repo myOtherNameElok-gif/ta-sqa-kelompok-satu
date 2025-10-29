@@ -21,35 +21,25 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://magang.dikahadir.com/absen/login')
 
-WebUI.setText(findTestObject('Object Repository/input_Email_email'), 'satu@hadir.com')
+WebUI.setText(findTestObject('Object Repository/Page_mobileHADIR/input_Email_email'), 'satu@hadir.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/input_Password_password'), '4nvbrPglk7k=')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_mobileHADIR/input_Password_password'), '4nvbrPglk7k=')
 
-WebUI.click(findTestObject('Object Repository/button_Lupa password_MuiButtonBase-root Mui_b3cfdc'))
+WebUI.click(findTestObject('Object Repository/Page_mobileHADIR/button_Lupa password_MuiButtonBase-root Mui_b3cfdc'))
 
-WebUI.click(findTestObject('Object Repository/a__user__menu__item'))
+WebUI.click(findTestObject('Object Repository/Page_mobileHADIR/a__user__menu__item'))
 
-WebUI.click(findTestObject('Object Repository/button_MuiButtonBase-root MuiButton-root Mu_9e4430'))
+WebUI.click(findTestObject('Object Repository/Page_mobileHADIR/button_MuiButtonBase-root MuiButton-root Mu_9e4430'))
 
-WebUI.click(findTestObject('Object Repository/div_Pilih Tanggal_MuiBox-root css-6rfaag'))
+WebUI.click(findTestObject('Object Repository/Page_mobileHADIR/div_Pilih Tanggal_MuiBox-root css-6rfaag'))
 
-WebUI.click(findTestObject('Object Repository/button_Ajukan_rdrNextPrevButton rdrNextButton'))
+WebUI.click(findTestObject('Object Repository/Page_mobileHADIR/span_Sat_rdrDayNumber_1'))
 
-WebUI.click(findTestObject('Object Repository/span_Sat_rdrDayNumber_2'))
+WebUI.click(findTestObject('Object Repository/Page_mobileHADIR/button_Batal_MuiButtonBase-root MuiButton-r_fbbf7e_1'))
 
-WebUI.click(findTestObject('Object Repository/span_Sat_rdrDayNumber_3'))
+WebUI.click(findTestObject('Object Repository/Page_mobileHADIR/button_Reset_MuiButtonBase-root MuiButton-r_b742f6'))
 
-WebUI.click(findTestObject('Object Repository/button_Batal_MuiButtonBase-root MuiButton-r_fbbf7e_1'))
-
-WebUI.delay(3)
-
-String filepath = 'C:\\Users\\cici\\Pictures\\Screenshots\\Screenshot1.png'
-
-WebUI.uploadFile(findTestObject('importfoto'), filepath)
-
-WebUI.delay(3)
-
-WebUI.click(findTestObject('Object Repository/button_Reset_MuiButtonBase-root MuiButton-r_b742f6'))
+WebUI.click(findTestObject('Object Repository/Page_mobileHADIR/div_Anda sudah melakukan izin sakit di tang_e0ed93'))
 
 WebUI.closeBrowser()
 
