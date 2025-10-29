@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Status_MuiSnackbarContent-message css-1w0ym84</name>
+   <tag></tag>
+   <elementGuidId>85e70817-533d-492d-b625-fd53c1c5bd9e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiSnackbarContent-message.css-1w0ym84</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[3]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Anda sudah melakukan absensi dengan status: Sakit&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cd39ce1f-af4a-4fae-bd52-3c64a8e0729b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiSnackbarContent-message css-1w0ym84</value>
+      <webElementGuid>2a29b7c3-a82c-4c9a-a2fc-3a38986731b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Anda sudah melakukan absensi dengan status: Sakit</value>
+      <webElementGuid>f89577dd-553a-45a4-9c27-c592d64d6cee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthSm css-1cd81x&quot;]/div[@class=&quot;MuiBox-root css-1ejni00&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiSnackbar-root MuiSnackbar-anchorOriginBottomLeft css-qwe366&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation6 MuiSnackbarContent-root css-c352pn&quot;]/div[@class=&quot;MuiSnackbarContent-message css-1w0ym84&quot;]</value>
+      <webElementGuid>47eed0ac-0be7-4d0c-847f-7b100a052325</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[3]/div/div/div/div</value>
+      <webElementGuid>31c542e3-0f4f-453f-8c2f-a382cc404d8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Anda sudah melakukan absensi dengan status: Sakit']/parent::*</value>
+      <webElementGuid>d6a2fb20-d7d0-4974-b77b-eeeb35358065</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div</value>
+      <webElementGuid>44d29d53-1690-44d4-b3ee-a9d6adfe7e56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Anda sudah melakukan absensi dengan status: Sakit' or . = 'Anda sudah melakukan absensi dengan status: Sakit')]</value>
+      <webElementGuid>806ec375-65ca-4289-9444-e052187e32b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

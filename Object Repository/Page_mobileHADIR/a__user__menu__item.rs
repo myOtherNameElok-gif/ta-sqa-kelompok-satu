@@ -6,19 +6,18 @@
    <elementGuidId>6c6a43cc-9843-4d8c-a011-6cd24ba3d760</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='__next']/div/div/div/div[3]/div/div/div[3]/div/div/a</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div[3]/div/div/div[5]/div/div/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>a >> internal:has-text=&quot;Izin&quot;i</value>
+         <value>a >> internal:has-text=&quot;Cuti&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>b84e4161-0150-4dfc-852a-1f1874cd2913</webElementGuid>
+      <webElementGuid>f7c52452-ac78-40c1-9a7a-39e9f77d461a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,15 +36,15 @@
       <name>class</name>
       <type>Main</type>
       <value>user__menu__item</value>
-      <webElementGuid>154815f4-0c4c-4a4c-aa71-c0c9e30037cc</webElementGuid>
+      <webElementGuid>37885fdc-f89c-4bbf-9f73-f5e8e86d5e00</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Izin</value>
-      <webElementGuid>04025f8b-dc77-4876-bba2-3533d8942492</webElementGuid>
+      <value>Cuti</value>
+      <webElementGuid>8318665a-71d3-4497-8878-0ff7bc0d70b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,15 +52,63 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthSm css-ewqxmf&quot;]/div[@class=&quot;MuiBox-root css-19n8dai&quot;]/div[@class=&quot;MuiBox-root css-wmurvm&quot;]/div[@class=&quot;MuiBox-root css-1dovkig&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-isbt42&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3 MuiGrid-grid-sm-3 css-4xkoi8&quot;]/div[@class=&quot;MuiBox-root css-7wh13m&quot;]/div[@class=&quot;MuiBox-root css-zg1vud&quot;]/a[@class=&quot;user__menu__item&quot;]</value>
-      <webElementGuid>f2bbeb8c-9669-41e7-9e6e-ca0b0136f306</webElementGuid>
+      <webElementGuid>5ac601d5-0e42-44b8-ace5-c3ec556ae145</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div[3]/div/div/div[5]/div/div/a</value>
+      <webElementGuid>2a74a882-0068-421b-b5a3-ce706d77233b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/following::a[5]</value>
+      <webElementGuid>37391456-e177-46bc-b451-2c974a15267d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::a[5]</value>
+      <webElementGuid>bd564811-626d-49c6-8a52-6b0e4424db8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Absen Masuk'])[1]/preceding::a[4]</value>
+      <webElementGuid>310e7550-53fe-4b03-8c7b-22cf0ca88ed4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/a</value>
+      <webElementGuid>82f6155c-920d-4f59-8efb-9ca5b5c0c527</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Cuti' or . = 'Cuti')]</value>
+      <webElementGuid>b3f25512-3ffc-4d91-9d82-3ecacd4bacfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
       <value>//div[@id='__next']/div/div/div/div[3]/div/div/div[3]/div/div/a</value>
-      <webElementGuid>121cc1d2-df16-44e6-a112-6edc0953aa7a</webElementGuid>
+      <webElementGuid>a6cf3dc9-7deb-4e9f-b6dd-babf74889cee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +116,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/following::a[3]</value>
-      <webElementGuid>aaf5010c-c0a8-4b9b-9b08-97fb07beb643</webElementGuid>
+      <webElementGuid>3b3ceea1-3e1b-485b-a6a0-3a210b71b91b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +124,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::a[3]</value>
-      <webElementGuid>8efddac4-70a5-4308-a6c3-d22b327e75ef</webElementGuid>
+      <webElementGuid>630dae64-5dd2-46d0-8153-43b80a06756d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +132,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Absen Masuk'])[1]/preceding::a[6]</value>
-      <webElementGuid>8ed3ed8a-68bc-4f7c-8f53-347e78674296</webElementGuid>
+      <webElementGuid>367addaf-4b1b-4b3d-8cf9-ac32fe118cbb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +140,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/a</value>
-      <webElementGuid>6f010ea4-afae-467a-b3cf-15196ac3ed1f</webElementGuid>
+      <webElementGuid>29b6d658-55e8-4d6d-9b8e-fc9e86136f56</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +148,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[(text() = 'Izin' or . = 'Izin')]</value>
-      <webElementGuid>099fb78a-8046-4fd1-aee8-8c3424130651</webElementGuid>
+      <webElementGuid>b50ae9a2-e1e0-42f8-8bdc-143718abb4db</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

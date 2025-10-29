@@ -6,19 +6,19 @@
    <elementGuidId>9ea94891-e867-4896-b4fb-26236a24f117</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='__next']/div/div/div/div[3]/div/div/div[3]/div/div/a/div/span/img</value>
+         <key>CSS</key>
+         <value>img[alt=&quot;Cuti&quot;]</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>img[alt=&quot;Izin&quot;]</value>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div[3]/div/div/div[5]/div/div/a/div/span/img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>a >> internal:has-text=&quot;Izin&quot;i</value>
+         <value>a >> internal:has-text=&quot;Cuti&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,15 +29,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>509dadd4-4bb2-422b-bd95-0f5f32fa2409</webElementGuid>
+      <webElementGuid>299b8d20-bb07-43f5-85d6-cf00edd1ca22</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>alt</name>
       <type>Main</type>
-      <value>Izin</value>
-      <webElementGuid>a242a0ba-b7dc-42a0-8d88-674f6711ea90</webElementGuid>
+      <value>Cuti</value>
+      <webElementGuid>88ca32e4-4c59-43f3-9db4-0615f45dbd8d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,23 +45,23 @@
       <name>sizes</name>
       <type>Main</type>
       <value>100vw</value>
-      <webElementGuid>1c2714cf-0bb0-4fd4-bd81-b5bee477b3bd</webElementGuid>
+      <webElementGuid>b8ade197-3fe2-4984-a146-f929d700b58a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>srcset</name>
       <type>Main</type>
-      <value>/_next/image?url=%2Fstatic%2Fimages%2Ficons%2Fizin.svg&amp;w=640&amp;q=75 640w, /_next/image?url=%2Fstatic%2Fimages%2Ficons%2Fizin.svg&amp;w=750&amp;q=75 750w, /_next/image?url=%2Fstatic%2Fimages%2Ficons%2Fizin.svg&amp;w=828&amp;q=75 828w, /_next/image?url=%2Fstatic%2Fimages%2Ficons%2Fizin.svg&amp;w=1080&amp;q=75 1080w, /_next/image?url=%2Fstatic%2Fimages%2Ficons%2Fizin.svg&amp;w=1200&amp;q=75 1200w, /_next/image?url=%2Fstatic%2Fimages%2Ficons%2Fizin.svg&amp;w=1920&amp;q=75 1920w, /_next/image?url=%2Fstatic%2Fimages%2Ficons%2Fizin.svg&amp;w=2048&amp;q=75 2048w, /_next/image?url=%2Fstatic%2Fimages%2Ficons%2Fizin.svg&amp;w=3840&amp;q=75 3840w</value>
-      <webElementGuid>98b9acad-c350-4a2b-81dd-c6c763d7ae26</webElementGuid>
+      <value>/_next/image?url=%2Fstatic%2Fimages%2Ficons%2Fleave.svg&amp;w=640&amp;q=75 640w, /_next/image?url=%2Fstatic%2Fimages%2Ficons%2Fleave.svg&amp;w=750&amp;q=75 750w, /_next/image?url=%2Fstatic%2Fimages%2Ficons%2Fleave.svg&amp;w=828&amp;q=75 828w, /_next/image?url=%2Fstatic%2Fimages%2Ficons%2Fleave.svg&amp;w=1080&amp;q=75 1080w, /_next/image?url=%2Fstatic%2Fimages%2Ficons%2Fleave.svg&amp;w=1200&amp;q=75 1200w, /_next/image?url=%2Fstatic%2Fimages%2Ficons%2Fleave.svg&amp;w=1920&amp;q=75 1920w, /_next/image?url=%2Fstatic%2Fimages%2Ficons%2Fleave.svg&amp;w=2048&amp;q=75 2048w, /_next/image?url=%2Fstatic%2Fimages%2Ficons%2Fleave.svg&amp;w=3840&amp;q=75 3840w</value>
+      <webElementGuid>7f361610-57b1-4fcc-a27e-ab59fd9fae25</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>/_next/image?url=%2Fstatic%2Fimages%2Ficons%2Fizin.svg&amp;w=3840&amp;q=75</value>
-      <webElementGuid>2d558ba3-d86a-4c2a-ba2d-cad26aa19b29</webElementGuid>
+      <value>/_next/image?url=%2Fstatic%2Fimages%2Ficons%2Fleave.svg&amp;w=3840&amp;q=75</value>
+      <webElementGuid>4b032fdb-e460-452f-9eae-80b112d92ed2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>decoding</name>
       <type>Main</type>
       <value>async</value>
-      <webElementGuid>a121f6c2-7aa8-4db2-b08a-37ac54cf43f8</webElementGuid>
+      <webElementGuid>ac06fe53-dee0-4536-8168-bbb8452f568d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>data-nimg</name>
       <type>Main</type>
       <value>responsive</value>
-      <webElementGuid>1a8ed298-531f-4e84-bf24-dae09ad92729</webElementGuid>
+      <webElementGuid>d2fc0524-ddf6-4292-b0bf-c3a1f89c77b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,10 +85,74 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthSm css-ewqxmf&quot;]/div[@class=&quot;MuiBox-root css-19n8dai&quot;]/div[@class=&quot;MuiBox-root css-wmurvm&quot;]/div[@class=&quot;MuiBox-root css-1dovkig&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-isbt42&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3 MuiGrid-grid-sm-3 css-4xkoi8&quot;]/div[@class=&quot;MuiBox-root css-7wh13m&quot;]/div[@class=&quot;MuiBox-root css-zg1vud&quot;]/a[@class=&quot;user__menu__item&quot;]/div[@class=&quot;MuiBox-root css-11uwjng&quot;]/span[1]/img[1]</value>
-      <webElementGuid>4275bc15-7144-444a-8192-8044c2dc221e</webElementGuid>
+      <webElementGuid>f0894381-477e-4440-9021-ce4b99f6ba18</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div[3]/div/div/div[5]/div/div/a/div/span/img</value>
+      <webElementGuid>d1cf43bc-7233-4705-9fc6-0fed75ce3042</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Cuti']</value>
+      <webElementGuid>0fec7b78-c307-4fb0-afad-250ee8c84bcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/a/div/span/img</value>
+      <webElementGuid>fe8c9ce9-bf5a-44bd-8ff0-23982df0b7d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Cuti' and @src = '/_next/image?url=%2Fstatic%2Fimages%2Ficons%2Fleave.svg&amp;w=3840&amp;q=75']</value>
+      <webElementGuid>1592cf71-8528-432b-8e2b-999c7f9b802f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div[3]/div/div/div[6]/div/div/a/div/span/img</value>
+      <webElementGuid>61001c86-df83-4847-bcbc-917fef97864e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Sakit']</value>
+      <webElementGuid>3ae19b72-d2d3-4f08-84a7-6aecdc84e423</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/a/div/span/img</value>
+      <webElementGuid>ae03c3be-baa9-41a1-afab-0f84e13550b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Sakit' and @src = '/_next/image?url=%2Fstatic%2Fimages%2Ficons%2Fsick.svg&amp;w=3840&amp;q=75']</value>
+      <webElementGuid>4e78ff70-9f13-4451-bd1b-674bedb8bec5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>

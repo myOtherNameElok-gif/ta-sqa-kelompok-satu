@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i</name>
+   <tag></tag>
+   <elementGuidId>fb2ef3aa-df75-4636-a54d-8f7b792d2135</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.rdrNextPrevButton.rdrNextButton > i</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[2]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>button:nth-child(3) >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>ceeffb16-7ce4-4dfc-9a5a-321ac14fe882</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;&quot;]/body[1]/div[@class=&quot;MuiDialog-root MuiModal-root css-126xj0f&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-ekeie0&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthSm MuiDialog-paperFullScreen css-1dn27u9&quot;]/div[@class=&quot;MuiBox-root css-dnzezj&quot;]/div[@class=&quot;MuiBox-root css-130qoze&quot;]/div[@class=&quot;rdrCalendarWrapper rdrDateRangeWrapper&quot;]/div[@class=&quot;rdrMonthAndYearWrapper&quot;]/button[@class=&quot;rdrNextPrevButton rdrNextButton&quot;]/i[1]</value>
+      <webElementGuid>aaa0da3e-6e27-49d0-a941-bac58af3941d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/i</value>
+      <webElementGuid>41d82a6b-6852-4dd4-8eb9-53d25b4e0f87</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

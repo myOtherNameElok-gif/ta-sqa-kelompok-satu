@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case 1-ajukan sakit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2e5dd007-dcab-491d-9a7b-57f2b9ef7cf4</testCaseGuid>
+</TestCaseEntity>
